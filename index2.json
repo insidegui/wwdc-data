@@ -1,0 +1,10 @@
+{
+	"baseURL": "https://devimages-cdn.apple.com/wwdc-services/g7tk3guq/xhgbpyutb6wvn2xcrbcz/",
+	"videos": "videos.json",
+	"live": "videos_live.json",
+	"sessions": "sessions.json",
+	"wwdc_week": false,
+	"ignore_cache": false,
+	"live_sessions_enabled": false,
+	"schedule": false
+}
